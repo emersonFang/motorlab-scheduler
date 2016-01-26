@@ -1,5 +1,6 @@
 #Motorlab Scheduler
 by Emerson Fang
+Project started 1/26/2016
 
 ##Description
 As a starting point, this will be a basic event-scheduler.  The app will enable the user to create events (single or multiple days), and contact people with an 
